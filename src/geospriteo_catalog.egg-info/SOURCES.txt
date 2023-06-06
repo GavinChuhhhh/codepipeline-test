@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/geosprite/eo/dtypes.py
+src/geosprite/eo/catalog/__init__.py
+src/geosprite/eo/catalog/dtypes.py
+src/geosprite/eo/catalog/filter.py
+src/geosprite/eo/catalog/imagecollection.py
+src/geosprite/eo/catalog/stac.py
+src/geospriteo_catalog.egg-info/PKG-INFO
+src/geospriteo_catalog.egg-info/SOURCES.txt
+src/geospriteo_catalog.egg-info/dependency_links.txt
+src/geospriteo_catalog.egg-info/namespace_packages.txt
+src/geospriteo_catalog.egg-info/not-zip-safe
+src/geospriteo_catalog.egg-info/requires.txt
+src/geospriteo_catalog.egg-info/top_level.txt
